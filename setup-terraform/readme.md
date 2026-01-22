@@ -3,6 +3,8 @@
 I am using my ubuntu-server-linux machine for this tutorial.
 Firstly Login into the ubuntu server using ssh-private-key using 
 
+Hashicorp offical Click on [Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) to read more.
+
 ```
 ssh -i %USERPROFILE%\.ssh\azure_cmd_key jarvis@192.1258.1.105
 
