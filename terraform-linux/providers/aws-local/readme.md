@@ -24,3 +24,9 @@ Officials link for Terraform Providers : [Click Link](http://registry.terraform.
 ## terraform init and it worked!
 ![alt text](image-7.png)
 
+## Adding tf aws provider
+![alt text](image-9.png)
+
+## everthing looks fine.
+![alt text](image-10.png)
+
