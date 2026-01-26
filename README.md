@@ -3,7 +3,7 @@
 Terraform from Zero :shipit:
 
 
-Till Now, This repo has.[
+Till Now, This repo has.
 
 - [cli](/cli/) (Installation of AWS And Azure CLI)
 - [setup](/setup/)  (Installation of Terraform )
