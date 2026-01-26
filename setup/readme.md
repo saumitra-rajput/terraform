@@ -63,29 +63,4 @@ terraform --version
 ```
 ![alt text](image-7.png)
 
-```
-XXXXX
-```
 
-```
-XXXXX
-```
-
-```
-XXXXX
-```
-
-
-```
-XXXXX
-```
-
-
-```
-XXXXX
-```
-
-
-```
-XXXXX
-```
