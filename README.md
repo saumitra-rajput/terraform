@@ -1,17 +1,19 @@
-# _terraform_ :octocat:
-
-
-
+# _terraform_ 
 
 Terraform from Zero :shipit:
 
 
-Till Now, This repo has.
+Till Now, This repo has.[
 
-- cli (Installation of AWS And Azure CLI)
-- setup (Installation of Terraform )
-- terraform-linux 
+- [cli](/cli/) (Installation of AWS And Azure CLI)
+- [setup](/setup/)  (Installation of Terraform )
+- [terraform-linux](/terraform-linux/) :
 
-    Terraform files(AWS, AZURE, LOCAL)
+    Terraform files (AWS, AZURE, LOCAL)
 
     Types of Provider (LOCAL, AWS, AZURE)
+
+
+In progress...  :octocat:
+
+TEST : [TTTTT](/TTTT/)   Points no where for ps use.
