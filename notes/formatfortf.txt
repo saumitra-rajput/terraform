@@ -1,0 +1,19 @@
+<block> <parameter> {
+
+	arguments
+
+}
+
+
+block (variable, resource, output)
+
+parameters (azure_vm myVM)
+
+
+	{
+
+	storage : 15gb
+	vnet_name: vm_vnet
+	os_type : linux
+}
+
